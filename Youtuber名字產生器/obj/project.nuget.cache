@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rnI7WBuWpPNUnSp2Wc1YRAFR4sUfMlYAFCtlaha1zNdWx7Ezw4kXIskX48WoVyUAnH6kL6dKASbaultohjFLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ikun\\source\\repos\\Youtuber名字產生器\\Youtuber名字產生器\\Youtuber名字產生器.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikun\\.nuget\\packages\\wpf-ui\\3.0.4\\wpf-ui.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
